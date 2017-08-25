@@ -20,7 +20,9 @@
 		"pear-pear.horde.org/Horde_Util": "^2.5.8@stable",
 		"pear-pear.horde.org/Horde_Smtp": "^1.9.5@stable",
 		"ezyang/htmlpurifier": "4.7.0",
-		"kwi/urllinker": "dev-default"
+		"kwi/urllinker": "dev-default",
+		"gravatarphp/gravatar": "^1.0",
+		"mpclarkson/icon-scraper": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "^5.7"
